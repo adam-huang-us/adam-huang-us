@@ -97,7 +97,7 @@
 - <h4 align="left">Data Visulization</h4>
   <p align="left"> 
     <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-    <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-logo.svg" alt="tableau" width="40" height="40"/> </a>
+    <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://i.nextmedia.com.au/News/Tableau-software-logo-e1502871850906.png" alt="tableau" width="40" height="40"/> </a>
   </p>
   
 
