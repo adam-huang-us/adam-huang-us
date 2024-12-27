@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Devops (Terraform, AWS ECS, Docker)**
 
-- 👨‍💻 All of my projects are available at [All Projects](https://github.com/Sol2023/Learning_Map/blob/main/Projects.md)
+- 👨‍💻 All of my projects are available at [All Projects](https://github.com/adam-huang-us/learning_map/blob/main/projects.md)
 
   *Partial list of projects*
 
