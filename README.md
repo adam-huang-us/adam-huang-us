@@ -21,7 +21,7 @@
 
   [1] [E-commerce Project](https://github.com/adam-huang-us/e-commerce) （*RFM Analysis*， *K-Means* ）
   
-  [2] [Store Sales Forecasting Project](https://github.com/Sol2023/store-demand-forecast) （*Time Seriers*）
+  [2] [Store Sales Forecasting Project](https://github.com/adam-huang-us/store-demand-forecast) （*Time Seriers*）
 
   [3] [Amazon-product-review-project](https://github.com/Sol2023/product_review_project) （*Python Web Scraping*, *OPENAI API*, *MySQL DB*,*PowerBI*）
 
