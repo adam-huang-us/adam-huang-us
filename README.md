@@ -23,7 +23,7 @@
   
   [2] [Store Sales Forecasting Project](https://github.com/adam-huang-us/store-demand-forecast) （*Time Seriers*）
 
-  [3] [Amazon-product-review-project](https://github.com/Sol2023/product_review_project) （*Python Web Scraping*, *OPENAI API*, *MySQL DB*,*PowerBI*）
+  [3] [Amazon-product-review-project](https://github.com/adam-huang-us/product_review_project) （*Python Web Scraping*, *OPENAI API*, *MySQL DB*,*PowerBI*）
 
   [4] [End-to-End ML Project: Fraud Detection](https://github.com/Sol2023/fraud-detection) (*Python OOP*, *Data Pipeline*, *Model Deployment*, *Flask*， *AWS* *CI/CD*, *DVC* )
 
