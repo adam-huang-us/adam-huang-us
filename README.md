@@ -11,7 +11,7 @@
 
   [2] AI Chatbot (AWS Bedrock with Multi Agetn, RAG)
 
-  
+
 
 - 🌱 I’m currently learning **Devops (Terraform, AWS ECS, Docker)**
 
@@ -100,8 +100,6 @@
 - <h4 align="left">Data Visulization</h4>
   <p align="left"> 
     <a href="https://app.powerbi.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-    
-    
   </p>
   
 
