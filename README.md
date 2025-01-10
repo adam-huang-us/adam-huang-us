@@ -29,9 +29,6 @@
 
   [6] [JobCompare](https://github.com/Sol2023/job_compare.git)  (*Android Studio*, *Java*)
 
-import { Bedrock } from '@lobehub/icons';
-
-export default () => <Bedrock.Combine size={56} type={'color'}/>;
 
 - 📫 How to reach me **shuang497@gatech.com**
 
@@ -77,9 +74,10 @@ export default () => <Bedrock.Combine size={56} type={'color'}/>;
 
 - <h4 align="left">AI/ML:</h4>
   <p align="left"> 
-    
+   
     <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" /> </a>
-     <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/bedrock-color.svg" /> </a>
+     <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img width="40" height="40" src=" https://unpkg.com/@lobehub/icons-static-svg@1.14.0/icons/huggingface-color.svg" /> </a>
+    <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" /> </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
       <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
       <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
