@@ -29,7 +29,9 @@
 
   [6] [JobCompare](https://github.com/Sol2023/job_compare.git)  (*Android Studio*, *Java*)
 
+import { Bedrock } from '@lobehub/icons';
 
+export default () => <Bedrock.Combine size={56} type={'color'}/>;
 
 - 📫 How to reach me **shuang497@gatech.com**
 
