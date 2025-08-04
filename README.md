@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on:
 
-  [1] Profile-Website (Deploy Django Website with AWS's ECS using Terraform)
+  [1] Profile-Website (LAMP on AWS EC2)
 
   [2] AI Chatbot (AWS Bedrock with Multi Agetn, RAG)
 
