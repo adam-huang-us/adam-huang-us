@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on:
 
-  [1] Profile-Website (LAMP on AWS EC2)
+  [1] Profile-Website
 
   [2] AI Chatbot (AWS Bedrock with Multi Agetn, RAG)
 
