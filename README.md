@@ -105,8 +105,5 @@
       <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-huang-us&show_icons=true&locale=en&layout=compact" alt="adam-huang-us" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-huang-us&show_icons=true&locale=en" alt="adam-huang-us" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-huang-us&" alt="adam-huang-us" /></p>
