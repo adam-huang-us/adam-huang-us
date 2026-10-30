@@ -1,109 +1,77 @@
+# Hi 👋, I'm Adam Huang
 
-<h1 align="center">Hi 👋, I'm Adam Huang</h1>
-<h3 align="center">A passionate Developer</h3>
+### Data Engineer | Cloud & AI Infrastructure | AWS Serverless | Python
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuang497&label=Profile%20views&color=0e75b6&style=flat" alt="shuang497" /> </p>
+I'm a **Data Engineer at PACCAR**, where I design and build cloud-native applications, data pipelines, and scalable backend services.
 
-- 🔭 I’m currently working on:
+My work focuses on **AWS serverless architecture, data engineering, API development, infrastructure as code, and production system reliability**. I'm particularly interested in bridging traditional data engineering with modern AI infrastructure.
 
-  [1] AI Infra
+I'm also pursuing an **M.S. in Computer Science at Georgia Tech (OMSCS)**, expanding my knowledge of computer systems, deep learning, and high-performance computing.
 
-  [2] OMSCS - HPCA
+### 🚀 What I'm Working On
 
-- 🌱 I’m currently learning **AI Infra**
+- ☁️ **Cloud & Backend Engineering:** Building serverless applications, REST APIs, automated data workflows, and secure enterprise integrations on AWS.
+- 🔧 **Infrastructure & DevOps:** Managing cloud resources with Terraform, containerizing applications with Docker, and implementing CI/CD workflows.
+- 🤖 **AI/ML Engineering:** Exploring LLM evaluation, model fine-tuning, and the integration of AI capabilities into production applications.
+- 🎓 **Computer Science:** Studying deep learning, computer vision, and high-performance computer architecture through Georgia Tech OMSCS.
+- ⚡ **AI Infrastructure:** Learning CUDA, GPU performance optimization, distributed inference, and scalable LLM serving.
 
-- 👨‍💻 All of my projects are available at [All Projects](https://github.com/adam-huang-us/learning_map/blob/main/projects.md)
+### 🛠️ Technical Skills
 
-  *Partial list of projects*
+**Languages & Backend**
 
+Python · SQL · FastAPI · Flask · REST APIs · Linux
 
+**Cloud & Infrastructure**
 
-- 📫 How to reach me **shuang497@gatech.com**
+AWS Lambda · API Gateway · Step Functions · S3 · CloudFront · ECR · IAM · CloudWatch · Terraform
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1eIPG9Qs2tal_vDbivzvygaACO7YBRdKP/edit?usp=sharing&ouid=101210288575378616443&rtpof=true&sd=true)
+**Data Engineering**
 
-- ⚡ Fun fact **I'm a fan of detective stories and my favorite author is Agatha Christie**
+Snowflake · ETL/ELT Pipelines · Data Modeling · Data Integration · Data Quality
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/szh2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/szh2022" height="30" width="40" /></a>
-</p>
+**DevOps & Security**
 
-<h3 align="left">Languages and Tools:</h3>
+Docker · Git · GitHub Actions · CI/CD · SAML SSO · Secrets Management · AWS WAF
 
-- <h4 align="left">Programming Languages:</h4>
+**AI & Machine Learning**
 
-  <p align="left"> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-         <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  </p>
+PyTorch · Scikit-learn · Hugging Face · MLflow · LLM Evaluation · Model Fine-tuning · LoRA
 
-- <h4 align="left">Devops:</h4>
-  <p align="left"> 
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="40" height="40"/> </a> 
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-      <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-      <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-      <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-      <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  </p>
+**Analytics & Visualization**
 
-- <h4 align="left">AI/ML:</h4>
-  <p align="left"> 
-   
-    <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" /> </a>
-     <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@1.14.0/icons/huggingface-color.svg" /> </a>
-    <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/bedrock-color.svg" /> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  </p>
+Looker · Tableau · Pandas
 
-  
-- <h4 align="left">Database:</h4>
-  <p align="left"> 
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-     <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Pinecone-Full-Logo-Black.svg" alt="pinecone" width="40" height="40"/> </a>
-    
-  </p>
-  
-- <h4 align="left">Data Visulization</h4>
-  <p align="left"> 
-    <a href="https://app.powerbi.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-  </p>
-  
+### 🔬 Currently Learning & Exploring
 
+My current focus is on the engineering challenges behind deploying and operating AI models efficiently:
 
+- **LLM Inference:** vLLM, continuous batching, KV cache management, and inference optimization.
+- **GPU Computing:** CUDA fundamentals, GPU memory architecture, and performance profiling.
+- **Distributed Systems:** Scalability, concurrency, reliability, and high-performance system design.
+- **Model Adaptation:** LoRA, parameter-efficient fine-tuning, and evaluation methodologies.
 
-- <h4 align="left">Framework:</h4>
-  <p align="left"> 
-  
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" alt="flask" width="40" height="40"/> </a>
-  
-  </p>
+### 📂 Projects
 
-- <h4 align="left">Mobile App Development:</h4>
-  <p align="left"> 
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  </p>
+Explore my projects, technical experiments, and learning journey:
 
+**[View All Projects](https://github.com/adam-huang-us/learning_map/blob/main/projects.md)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-huang-us&" alt="adam-huang-us" /></p>
+My areas of focus include cloud-native applications, data engineering, machine learning, and AI infrastructure.
+
+### 🎓 Education & Certifications
+
+- **Georgia Institute of Technology** — M.S. Computer Science (OMSCS), in progress
+- **The University of Texas at Dallas** — M.S. Business Analytics
+- **AWS Certified Machine Learning – Specialty**
+- **Tableau Desktop Specialist**
+
+### 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/szh2022)
+- 📧 [Email](mailto:shuang497@gatech.com)
+- 📄 [Resume](https://docs.google.com/document/d/1eIPG9Qs2tal_vDbivzvygaACO7YBRdKP/edit?usp=sharing&ouid=101210288575378616443&rtpof=true&sd=true)
+
+### ⚡ Beyond Engineering
+
+I enjoy detective fiction, especially the works of Agatha Christie. I also enjoy exploring how complex systems work, from computer architecture to modern AI infrastructure.
